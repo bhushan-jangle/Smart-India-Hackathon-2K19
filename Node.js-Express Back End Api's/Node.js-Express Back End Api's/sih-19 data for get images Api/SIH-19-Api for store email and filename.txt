@@ -1,0 +1,9 @@
+sr.no.  Api							for 				method		DBName
+	
+1. 	https://stark-plateau-83235.herokuapp.com/api/add		add data		post		mydatabase/dataforgetimages
+
+2. 	https://stark-plateau-83235.herokuapp.com/api/getall		get all data		get		mydatabase/dataforgetimages
+
+3. 	https://stark-plateau-83235.herokuapp.com/add:email		get databy email	get		mydatabase/dataforgetimages
+
+

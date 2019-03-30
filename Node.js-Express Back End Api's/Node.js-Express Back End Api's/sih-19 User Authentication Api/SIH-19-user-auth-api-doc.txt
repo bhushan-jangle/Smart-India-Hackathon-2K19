@@ -1,0 +1,24 @@
+sr.no.	api									used				credential for api
+					
+1.	https://hidden-scrubland-27928.herokuapp.com/users/register		For User registration		credential
+														{
+															"role": "user",
+															"name": "waffwaff",
+															"email": "waffwaff@gmail.com",
+															"password": "waffwaff123"
+														}
+
+
+
+
+
+2	https://hidden-scrubland-27928.herokuapp.com/users/authenticate		For User login		       Response in json
+														{
+															"role": "user",
+															"name": "waffwaff",
+															"email": "waffwaff@gmail.com",
+															"password": "waffwaff123"
+														}	
+
+
+3    Refference		http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
