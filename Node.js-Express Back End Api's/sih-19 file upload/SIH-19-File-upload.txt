@@ -1,0 +1,8 @@
+sr.no   api
+									credential
+1	https://vast-earth-42345.herokuapp.com/file	  		file     	
+2	https://vast-earth-42345.herokuapp.com/file/:filename	
+
+
+max file upload = 4
+min file upload = 1
